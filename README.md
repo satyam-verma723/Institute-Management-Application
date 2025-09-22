@@ -1,6 +1,6 @@
-# School Management System
+# Institute Management Application
 
-A full-stack school management application with React frontend and Node.js backend.
+A full-stack institute management application with React frontend and Node.js backend.
 
 ## Project Structure
 ```
